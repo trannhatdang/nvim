@@ -4,5 +4,6 @@ return {
   opts = {
     size = 20,
     open_mapping = [[<c-\>]],
+    direction = 'float',
   },
 }
